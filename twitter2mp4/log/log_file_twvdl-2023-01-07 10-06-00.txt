@@ -1,0 +1,13 @@
+These are the logs for the sequence of requests, if theres an issue, please submit a report with the contents of this file.
+-*-*-*-*- start of bearer-*-*-*-*-
+Bearer AAAAAAAAAAAAAAAAAAAAAIK1zgAAAAAA2tUWuhGZ2JceoId5GwYWU5GspY4%3DUq7gzFoCZs1QfwGoVdvSac3IniczZEYXIcDyumCauIXpcAPorE
+-*-*-*-*- end of bearer-*-*-*-*-
+-*-*-*-*- start of guest_token-*-*-*-*-
+1611582391080095744
+-*-*-*-*- end of guest_token-*-*-*-*-
+-*-*-*-*- start of full_headers-*-*-*-*-
+{'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'accept-language': 'es-419,es;q=0.9,es-ES;q=0.8,en;q=0.7,en-GB;q=0.6,en-US;q=0.5', 'authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAIK1zgAAAAAA2tUWuhGZ2JceoId5GwYWU5GspY4%3DUq7gzFoCZs1QfwGoVdvSac3IniczZEYXIcDyumCauIXpcAPorE', 'x-guest-token': '1611582391080095744'}
+-*-*-*-*- end of full_headers-*-*-*-*-
+-*-*-*-*- start of vid_list-*-*-*-*-
+[{'bitrate': 2176000, 'content_type': 'video/mp4', 'url': 'https://video.twimg.com/amplify_video/1611576639892389888/vid/720x1280/IZ-cmWZpQQs3Vr_G.mp4?tag=16'}, {'content_type': 'application/x-mpegURL', 'url': 'https://video.twimg.com/amplify_video/1611576639892389888/pl/PccLDIlRlMah2Vb-.m3u8?tag=16&container=fmp4'}, {'bitrate': 10368000, 'content_type': 'video/mp4', 'url': 'https://video.twimg.com/amplify_video/1611576639892389888/vid/1080x1920/MiTXHtpltnAUiQKN.mp4?tag=16'}, {'bitrate': 632000, 'content_type': 'video/mp4', 'url': 'https://video.twimg.com/amplify_video/1611576639892389888/vid/320x568/IfBCOJKi1bJnqjXX.mp4?tag=16'}, {'bitrate': 950000, 'content_type': 'video/mp4', 'url': 'https://video.twimg.com/amplify_video/1611576639892389888/vid/480x852/XRSAdt_f_pfsLxeT.mp4?tag=16'}]
+-*-*-*-*- end of vid_list-*-*-*-*-
